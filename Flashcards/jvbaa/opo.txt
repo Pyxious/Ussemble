@@ -1,0 +1,8 @@
+Difficulty: Difficult
+Question: what is oop
+Answer: object oriented programming
+-------------------------
+Difficulty: Easy
+Question: what is oop
+Answer: Object oriented programmingdasdsa
+-------------------------

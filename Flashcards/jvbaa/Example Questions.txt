@@ -1,0 +1,80 @@
+Difficulty: Difficult
+Question: hiiii
+Answer: helloooo
+-------------------------
+Difficulty: Moderate
+Question: What is 5 + 7?
+Answer: 12
+-------------------------
+Difficulty: Difficult
+Question: What is the capital of Madagascar?
+Answer: Antananarivo
+-------------------------
+Difficulty: Easy
+Question: Is water wet?
+Answer: Yes
+-------------------------
+Difficulty: Moderate
+Question: What is 12 x 12?
+Answer: 144
+-------------------------
+Difficulty: Difficult
+Question: What is the square root of 841?
+Answer: 29
+-------------------------
+Difficulty: Easy
+Question: Anong hayop ang tumitilaok?
+Answer: Manok
+-------------------------
+Difficulty: Moderate
+Question: Translate "book" to Filipino.
+Answer: Libro
+-------------------------
+Difficulty: Difficult
+Question: What year did the Titanic sink?
+Answer: 1912
+-------------------------
+Difficulty: Easy
+Question: blue ba ang sky?
+Answer: oo
+-------------------------
+Difficulty: Moderate
+Question: What is the 7th month of the year?
+Answer: July
+-------------------------
+Difficulty: Difficult
+Question: What is the value of pi to 5 decimal places?
+Answer: 3.14159
+-------------------------
+Difficulty: Easy
+Question: Where does the sun rise?
+Answer: East
+-------------------------
+Difficulty: Moderate
+Question: Who painted the Mona Lisa?
+Answer: Leonardo da Vinci
+-------------------------
+Difficulty: Difficult
+Question: What is the largest planet in the solar system?
+Answer: Jupiter
+-------------------------
+Difficulty: Easy
+Question: Where can fished swim?
+Answer: Water
+-------------------------
+Difficulty: Moderate
+Question: What is the freezing point of water in Celsius?
+Answer: 0
+-------------------------
+Difficulty: Difficult
+Question: What is the chemical formula for table salt?
+Answer: NaCl
+-------------------------
+Difficulty: Easy
+Question: 2 + 2?
+Answer: 4
+-------------------------
+Difficulty: Moderate
+Question: What is the smallest prime number?
+Answer: 2
+-------------------------
